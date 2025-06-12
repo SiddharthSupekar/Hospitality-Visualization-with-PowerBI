@@ -3,7 +3,7 @@
 Hospitality Data Visualizations
 
 ## Dashboard Snapshot
-![Dashboard Snapshot](Snapshots\Screenshot 2025-06-13 025251.png)
+![Dashboard Snapshot](Snapshots/Screenshot 2025-06-13 025251.png)
 
 ## Problem Statement
 
