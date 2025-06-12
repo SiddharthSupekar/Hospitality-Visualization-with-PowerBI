@@ -2,6 +2,9 @@
 
 Hospitality Data Visualizations
 
+## Dashboard Snapshot
+![Dashboard Snapshot](Snapshots\Screenshot 2025-06-13 025251.png)
+
 ## Problem Statement
 
 A leading hospitality group has been facing declining market share and revenue in the luxury/business segment due to rising competition and inconsistent decision-making. Lacking an internal analytics team, the organization sought to implement a data-driven solution to extract insights from historical data. This Power BI dashboard project was developed to support strategic decision-making and improve revenue performance.
