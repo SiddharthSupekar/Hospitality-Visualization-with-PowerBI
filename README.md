@@ -1,6 +1,6 @@
 # Project Title
 
-Hospitality Data Visualizations
+Hospitality Data Visualizations (Guided Project)
 
 ## Data Source 
  
