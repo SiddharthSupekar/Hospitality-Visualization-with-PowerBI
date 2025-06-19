@@ -1,4 +1,4 @@
-# Hospitality Data Visualizations
+# Hospitality Data Visualizations (Guided Project)
 
 ## Data Source 
 The data for this visualization was taken from 
