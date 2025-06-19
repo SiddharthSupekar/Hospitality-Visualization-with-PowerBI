@@ -1,9 +1,8 @@
-# Project Title
-
-Hospitality Data Visualizations
+# Hospitality Data Visualizations
 
 ## Data Source 
- 
+The data for this visualization was taken from 
+https://codebasics.io/challenge/codebasics-resume-project-challenge's challenge #1. 
 
 ## Dashboard Snapshot
 ![Dashboard Snapshot](Snapshots/Dashboard.png)
